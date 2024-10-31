@@ -1,9 +1,9 @@
 {
   "network": "syscoin",
-  "AaveOracleAddress": "0xf5059a5D33d5853360D16C683c16e67980206f36",
-  "AaveOracleStartBlock": 12663381,
-  "PoolAddressesProviderRegistryAddress": "0xa513E6E4b8f2a923D98304ec87F64353C4D5C853",
-  "PoolAddressesProviderRegistryStartBlock": 12663250,
+  "AaveOracleAddress": "0xF8518f4D4b8B5B28903Cf6929E43C5eCb3aC3082",
+  "AaveOracleStartBlock": 21518917,
+  "PoolAddressesProviderRegistryAddress": "0x160E423f0b3D5Fe8104058C3E4aeBa176B35615d",
+  "PoolAddressesProviderRegistryStartBlock": 21518855,
   "RewardsControllerAddress": "0x0000000000000000000000000000000000000000",
-  "RewardsControllerStartBlock": 12663250
+  "RewardsControllerStartBlock": 21441680
 }
